@@ -235,6 +235,7 @@ markers:
       ', id: KR3h0034_krp_001-bkkkrnewl51}
   - {type: line-break, offset: 763, content: '', id: KR3h0034_WYG_001-3b07}
   - {type: punctuation, offset: 782, content: (, id: KR3h0034_krp_001-bkkpn1}
+  - {type: voice, offset: 782, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 784, content: /, id: KR3h0034_krp_001-bkkpn2}
   - {type: punctuation, offset: 786, content: ), id: KR3h0034_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 786, content: '
@@ -428,6 +429,7 @@ markers:
       ', id: KR3h0034_krp_001-bkkkrnewl93}
   - {type: line-break, offset: 1408, content: '', id: KR3h0034_WYG_001-6a04}
   - {type: punctuation, offset: 1427, content: (, id: KR3h0034_krp_001-bkkpn7}
+  - {type: voice, offset: 1427, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1428, content: /, id: KR3h0034_krp_001-bkkpn8}
   - {type: punctuation, offset: 1429, content: ), id: KR3h0034_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 1430, content: '
@@ -771,9 +773,11 @@ markers:
       ', id: KR3h0034_krp_001-bkkkrnewl167}
   - {type: line-break, offset: 2665, content: '', id: KR3h0034_WYG_001-10a06}
   - {type: punctuation, offset: 2667, content: (, id: KR3h0034_krp_001-bkkpn10}
+  - {type: voice, offset: 2667, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 2669, content: /, id: KR3h0034_krp_001-bkkpn11}
   - {type: punctuation, offset: 2670, content: ), id: KR3h0034_krp_001-bkkpn12}
   - {type: punctuation, offset: 2676, content: (, id: KR3h0034_krp_001-bkkpn13}
+  - {type: voice, offset: 2676, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2678, content: /, id: KR3h0034_krp_001-bkkpn14}
   - {type: punctuation, offset: 2680, content: ), id: KR3h0034_krp_001-bkkpn15}
   - {type: 'kr:newline', offset: 2689, content: '
@@ -1249,4 +1253,4 @@ markers:
 
       ', id: KR3h0034_krp_001-bkkkrnewl269}
   back: []
-hash: sha256:d9b81c5ebe0fe3f959aed2b35bfcb47dd2f456c01ef90d7078522aabc5843e2f
+hash: sha256:b9bce099e69af372e63c7870b483c6bb9fb3d17c7c4596d5acf986c339a8a263

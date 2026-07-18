@@ -217,6 +217,7 @@ markers:
       ', id: KR3h0034_WYG_001-bkkkrnewl51}
   - {type: line-break, offset: 763, content: '', id: KR3h0034_WYG_001-3b07}
   - {type: punctuation, offset: 782, content: (, id: KR3h0034_WYG_001-bkkpn1}
+  - {type: voice, offset: 782, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 784, content: /, id: KR3h0034_WYG_001-bkkpn2}
   - {type: punctuation, offset: 786, content: ), id: KR3h0034_WYG_001-bkkpn3}
   - {type: 'kr:newline', offset: 786, content: '
@@ -393,6 +394,7 @@ markers:
       ', id: KR3h0034_WYG_001-bkkkrnewl93}
   - {type: line-break, offset: 1408, content: '', id: KR3h0034_WYG_001-6a04}
   - {type: punctuation, offset: 1427, content: (, id: KR3h0034_WYG_001-bkkpn7}
+  - {type: voice, offset: 1427, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1428, content: /, id: KR3h0034_WYG_001-bkkpn8}
   - {type: punctuation, offset: 1429, content: ), id: KR3h0034_WYG_001-bkkpn9}
   - {type: 'kr:newline', offset: 1430, content: '
@@ -692,9 +694,11 @@ markers:
       ', id: KR3h0034_WYG_001-bkkkrnewl167}
   - {type: line-break, offset: 2665, content: '', id: KR3h0034_WYG_001-10a06}
   - {type: punctuation, offset: 2667, content: (, id: KR3h0034_WYG_001-bkkpn10}
+  - {type: voice, offset: 2667, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 2669, content: /, id: KR3h0034_WYG_001-bkkpn11}
   - {type: punctuation, offset: 2670, content: ), id: KR3h0034_WYG_001-bkkpn12}
   - {type: punctuation, offset: 2676, content: (, id: KR3h0034_WYG_001-bkkpn13}
+  - {type: voice, offset: 2676, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 2678, content: /, id: KR3h0034_WYG_001-bkkpn14}
   - {type: punctuation, offset: 2680, content: ), id: KR3h0034_WYG_001-bkkpn15}
   - {type: 'kr:newline', offset: 2689, content: '
@@ -1118,4 +1122,4 @@ markers:
 
       ', id: KR3h0034_WYG_001-bkkkrnewl269}
   back: []
-hash: sha256:5fa19017f81f7241e1db7549e5e5ca2bd0a07c7a7cc0b1d12918379fcdbd7976
+hash: sha256:b6ad10fd5f5345ad18b661c554460b516cd7882d655a800da6124c3aab410118
